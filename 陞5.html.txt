@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>心得</title>
+</head>
+<body>
+
+
+這門課程我覺得很難太很有幫助<br><br>
+謝謝老師您辛苦了交會了很多很困難得操作<br><br><br><br><br><br>
+
+
+
+
+
+<a href="index.html">首頁</a>
+<a href="2nd.html">青椒肉絲</a>
+<a href="3rd.html">炒飯</a>
+<a href="4th.html">炒麵</a>
+
+
+</body>
+
+</html>

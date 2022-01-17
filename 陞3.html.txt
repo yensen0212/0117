@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>炒飯</title>
+</head>
+<body>
+
+
+
+
+
+<h3>炒飯</h3>
+
+<img src="2.jpg" width="400" height="300" align="left">
+1.開中小火熱鍋，加橄欖油。 2.將2顆蛋的蛋液倒入鍋中，用煎匙將蛋液推散，
+<br>類似炒蛋花，直到油脂炒乾。 3.把炒蛋聚集在鍋子的半邊，另外半邊再次加入橄欖油，再放肉絲。
+4.肉絲炒到半熟後，和炒蛋混合，加入胡椒粉。<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+。
+
+<a href="index.html">首頁</a>
+<a href="2nd.html">青椒肉絲</a>
+<a href="4th.html">炒麵</a>
+<a href="5th.html">心得感想</a>
+
+
+
+
+</body>
+
+</html>
